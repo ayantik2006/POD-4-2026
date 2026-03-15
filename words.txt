@@ -1,0 +1,6 @@
+hello
+bye
+good
+program
+angry
+happy
